@@ -50,8 +50,8 @@ A modern, full-stack forum application built with React, Node.js, Express, and M
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd forum-website
+git clone https://github.com/Oxcanga/Mern-Forum.git
+cd Mern-Forum
 ```
 
 2. Install dependencies for both frontend and backend:
@@ -141,27 +141,6 @@ vercel
 ### Frontend
 - `VITE_API_URL`: Backend API URL
 
-## 📁 Project Structure
-
-```
-forum-website/
-├── client/                 # Frontend React application
-│   ├── src/
-│   │   ├── components/    # Reusable components
-│   │   ├── pages/        # Page components
-│   │   ├── context/      # React context
-│   │   ├── hooks/        # Custom hooks
-│   │   └── utils/        # Utility functions
-│   └── public/           # Static files
-│
-└── server/                # Backend Node.js application
-    ├── routes/           # API routes
-    ├── controllers/      # Route controllers
-    ├── models/          # Mongoose models
-    ├── middleware/      # Custom middleware
-    └── utils/           # Utility functions
-```
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -175,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Oxcanga - Initial work
 
 ## 🙏 Acknowledgments
 
